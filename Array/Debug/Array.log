@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  Array.cpp
+c:\users\dusan\documents\visual studio 2017\projects\array\array\sortingalgorithms.h(144): warning C4018: '<': signed/unsigned mismatch
+  c:\users\dusan\documents\visual studio 2017\projects\array\array\array.cpp(91): note: see reference to function template instantiation 'void bucketSort<int>(Array<int> &,unsigned long,bool)' being compiled
+c:\users\dusan\documents\visual studio 2017\projects\array\array\sortingalgorithms.h(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\dusan\documents\visual studio 2017\projects\array\array\sortingalgorithms.h(158): warning C4018: '<': signed/unsigned mismatch
+c:\users\dusan\documents\visual studio 2017\projects\array\array\sortingalgorithms.h(162): warning C4018: '<': signed/unsigned mismatch
+  LINK : C:\Users\dusan\Documents\Visual Studio 2017\Projects\Array\Debug\Array.exe not found or not built by the last incremental link; performing full link
+  Array.vcxproj -> C:\Users\dusan\Documents\Visual Studio 2017\Projects\Array\Debug\Array.exe
+  Array.vcxproj -> C:\Users\dusan\Documents\Visual Studio 2017\Projects\Array\Debug\Array.pdb (Partial PDB)
